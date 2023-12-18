@@ -1,0 +1,10 @@
+Выигрывает игрушка : Toy{id=1, toyName='vfffffffffffffffffff'}
+Выигрывает игрушка : Toy{id=1, toyName='vfffffffffffffffffff'}
+Выигрывает игрушка : Toy{id=2, toyName='xxxxxxxxxxxxxxxxxxxxxxxxxx'}
+Выигрывает игрушка : Toy{id=2, toyName='xxxxxxxxxxxxxxxxxxxxxxxxxx'}
+Выигрывает игрушка : Toy{id=1, toyName='vfffffffffffffffffff'}
+Выигрывает игрушка : Toy{id=1, toyName='vfffffffffffffffffff'}
+Выигрывает игрушка : Toy{id=2, toyName='xxxxxxxxxxxxxxxxxxxxxxxxxx'}
+Выигрывает игрушка : Toy{id=3, toyName='zzzzzzzzzzzzzzzzzzzzzzzzzzz'}
+Выигрывает игрушка : Toy{id=1, toyName='vfffffffffffffffffff'}
+Выигрывает игрушка : Toy{id=3, toyName='zzzzzzzzzzzzzzzzzzzzzzzzzzz'}
